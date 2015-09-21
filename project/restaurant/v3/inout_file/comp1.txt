@@ -1,0 +1,7 @@
+======  MENU  =====
+
+1. Create Order
+2. Create Bill
+0. Exit
+
+Enter your choice

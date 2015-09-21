@@ -1,0 +1,7 @@
+This version is for polygon with 3 or 4 edges
+
+Enter no of edge in polygon
+1. To enter edges of polygon
+Enter all edges of polygon in clockwise or anti-clockwise fashion.
+
+Given figure is Kite

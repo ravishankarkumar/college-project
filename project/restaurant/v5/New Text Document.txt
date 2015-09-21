@@ -1,0 +1,12 @@
+a.out file is for linux/unix base OS users.
+other Application file is for Windos users. It can be run using any c++ compiler.
+
+inout_file directory contains input files expected output files(manually created) and output files.
+
+
+Version Info:
+This version has same functionalities as version 4 with some extra features.
+Extra feature:
+	Availability of items can be changed.
+	If any item is unavailable then ordering of that item is not possible.
+	IF any item become available then it can also be done by altering the availability of item.

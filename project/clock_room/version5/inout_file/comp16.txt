@@ -1,0 +1,99 @@
+
+=====================================================================
+---SMALL LOCKERS------|----MEDIUM LOCKERS-----|---LARGE LOCKERS------
+id---status---owner---|-id---status---owner---|-id---status---owner--
+---------------------------------------------------------------------
+ 1     0         1    | 11     0        11    | 21     0        21
+ 2     0         2    | 12     0        12    | 22     0        22
+ 3     0         3    | 13     0        13    | 23     0        23
+ 4     0         4    | 14     0        14    | 24     0        24
+ 5     0         5    | 15     0        15    | 25     0        25
+ 6     0         6    | 16     0        16    | 26     0        26
+ 7     0         7    | 17     0        17    | 27     0        27
+ 8     0         8    | 18     0        18    | 28     0        28
+ 9     0         9    | 19     0        19    | 29     0        29
+10     0        10    | 20     0        20    | 30     0        30
+---------------------------------------------------------------------
+
+------------------------------
+--------ROOM INFO-------------
+------------------------------
+ROOM No. 1 is empty.1
+ROOM No. 2 is empty.2
+ROOM No. 3 is empty.3
+ROOM No. 4 is empty.4
+ROOM No. 5 is empty.5
+------------------------------
+
+PRESS ANY KEY TO CONTINUE
+
+
+
+ENTER YOUR PNR NO: 
+====SYSTEM MENU====
+1. REQUEST LOCK
+2. RELEASE LOCK
+3. REQUEST A RETIRING ROOM
+4. CHECK-OUT FROM RETIRING ROOM
+ENTER YOUR CHOICE: 
+ENTER THE TYPE OF LOCK s(SMALL), m(MEDIUM) AND l(LARGE): 
+LOCK 21 IS ACQUIRED
+PLEASE REMEMBER YOUR LOCK-ID IS: 21
+
+WANT TO PRINT THE SYSTEM IMAGE?? PRESS 1 FOR YES OR ANY OTHER KEY TO CONTINUE: 
+=====================================================================
+---SMALL LOCKERS------|----MEDIUM LOCKERS-----|---LARGE LOCKERS------
+id---status---owner---|-id---status---owner---|-id---status---owner--
+---------------------------------------------------------------------
+ 1     0         1    | 11     0        11    | 21     1       206
+ 2     0         2    | 12     0        12    | 22     0        22
+ 3     0         3    | 13     0        13    | 23     0        23
+ 4     0         4    | 14     0        14    | 24     0        24
+ 5     0         5    | 15     0        15    | 25     0        25
+ 6     0         6    | 16     0        16    | 26     0        26
+ 7     0         7    | 17     0        17    | 27     0        27
+ 8     0         8    | 18     0        18    | 28     0        28
+ 9     0         9    | 19     0        19    | 29     0        29
+10     0        10    | 20     0        20    | 30     0        30
+---------------------------------------------------------------------
+
+------------------------------
+--------ROOM INFO-------------
+------------------------------
+ROOM No. 1 is empty.1
+ROOM No. 2 is empty.2
+ROOM No. 3 is empty.3
+ROOM No. 4 is empty.4
+ROOM No. 5 is empty.5
+------------------------------
+
+PRESS ANY KEY TO CONTINUE
+
+
+
+ENTER YOUR PNR NO: 
+====SYSTEM MENU====
+1. REQUEST LOCK
+2. RELEASE LOCK
+3. REQUEST A RETIRING ROOM
+4. CHECK-OUT FROM RETIRING ROOM
+ENTER YOUR CHOICE: DO YOU HAVE A LOCK-ID, PRESS 1 FOR YES: 
+ENTER LOCK-ID: 
+THIS LOCK DOES NOT EXISTS
+WRONG LOCK-ID.
+ YOU ARE TRYING TO FREE A LOCKER THAT DOES NOT EXIST IN THE SYSTEM.
+PLEASE RETRY WITH A DIFFERENT LOCK-ID
+
+
+ENTER YOUR PNR NO: 
+====SYSTEM MENU====
+1. REQUEST LOCK
+2. RELEASE LOCK
+3. REQUEST A RETIRING ROOM
+4. CHECK-OUT FROM RETIRING ROOM
+ENTER YOUR CHOICE: 
+---NO SUCH CHOICE EXISTS--SYSTEM EXITING---
+WRONG LOCK-ID.
+ YOU ARE TRYING TO FREE A LOCKER THAT DOES NOT EXIST IN THE SYSTEM.
+PLEASE RETRY WITH A DIFFERENT LOCK-ID
+===============================================

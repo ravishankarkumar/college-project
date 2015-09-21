@@ -1,0 +1,39 @@
+======  MENU  =====
+
+1. Create Order
+2. Create Bill
+3. Edit Order
+4. Edit Availability
+0. Exit
+
+Enter your choice
+
+--------------------------------------
+
+--------------------------------------
+Total bill: 0
+
+======  MENU  =====
+
+1. Create Order
+2. Create Bill
+3. Edit Order
+4. Edit Availability
+0. Exit
+
+Enter your choice
+
+--------------------------------------
+
+--------------------------------------
+Total bill: 0
+
+======  MENU  =====
+
+1. Create Order
+2. Create Bill
+3. Edit Order
+4. Edit Availability
+0. Exit
+
+Enter your choice

@@ -1,0 +1,124 @@
+======  MENU  =====
+
+1. Create Order
+2. Create Bill
+3. Edit Order
+4. Edit Availability
+0. Exit
+
+Enter your choice
+please choose:
+	1. Italian
+	2. South Indian
+	0. Finish
+
+
+Please select item.
+	1. Pizza cheese burst-small   250
+	2. Pizza cheese burst-Medium   450
+	3. Pizza cheese burst-Large   800
+	0. BACK
+Availability is changed for requested item
+please choose:
+	1. Italian
+	2. South Indian
+	0. Finish
+
+wrong choice. Please choose again.
+
+Please select item.
+	1. Uttapam   40
+	2. Masala Dosa   40
+	3. Idli   25
+	0. BACK
+Availability is changed for requested item
+please choose:
+	1. Italian
+	2. South Indian
+	0. Finish
+
+======  MENU  =====
+
+1. Create Order
+2. Create Bill
+3. Edit Order
+4. Edit Availability
+0. Exit
+
+Enter your choice
+please choose:
+	1. Italian
+	2. South Indian
+	0. Finish
+
+
+Please select item.
+	1. Pizza cheese burst-small   250
+	2. Pizza cheese burst-Medium   450
+	3. Pizza cheese burst-Large    NA
+	0. BACK
+item not Available. Plz choose again.
+quantity:	
+
+0. Go Back to Finish or Add More..
+please choose:
+	1. Italian
+	2. South Indian
+	0. Finish
+
+
+Please select item.
+	1. Uttapam   40
+	2. Masala Dosa    NA
+	3. Idli   25
+	0. BACK
+quantity:	
+
+0. Go Back to Finish or Add More..
+please choose:
+	1. Italian
+	2. South Indian
+	0. Finish
+
+
+Please select item.
+	1. Uttapam   40
+	2. Masala Dosa    NA
+	3. Idli   25
+	0. BACK
+item not Available. Plz choose again.
+quantity:	
+
+0. Go Back to Finish or Add More..
+please choose:
+	1. Italian
+	2. South Indian
+	0. Finish
+
+======  MENU  =====
+
+1. Create Order
+2. Create Bill
+3. Edit Order
+4. Edit Availability
+0. Exit
+
+Enter your choice
+
+--------------------------------------
+Pizza cheese burst-small	250	5
+Idli	25	2
+Uttapam	40	5
+
+--------------------------------------
+Total bill: 1500
+
+======  MENU  =====
+
+1. Create Order
+2. Create Bill
+3. Edit Order
+4. Edit Availability
+0. Exit
+
+Enter your choice

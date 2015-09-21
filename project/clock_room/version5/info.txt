@@ -1,0 +1,14 @@
+a.out file is for linux/unix base OS users.
+other Application file is for Windos users. It can be run using any c++ compiler.
+
+inout_file directory contains input files expected output files(manually created) and output files.
+
+
+Version Info:
+     the railway system demended a new software
+     with the functionality of retiring rooms.
+     So while keeping the old system intact, a
+     new functionality to assign and release retiring rooms
+     was also added.
+
+     the way the system outputs the system image was also changed.

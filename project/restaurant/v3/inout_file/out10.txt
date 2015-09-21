@@ -1,0 +1,32 @@
+======  MENU  =====
+
+1. Create Order
+2. Create Bill
+0. Exit
+
+Enter your choice
+please choose:
+	1. Italian
+	2. South Indian
+	0. Finish
+
+======  MENU  =====
+
+1. Create Order
+2. Create Bill
+0. Exit
+
+Enter your choice
+
+--------------------------------------
+
+--------------------------------------
+Total bill: 0
+
+======  MENU  =====
+
+1. Create Order
+2. Create Bill
+0. Exit
+
+Enter your choice

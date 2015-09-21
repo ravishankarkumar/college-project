@@ -1,0 +1,577 @@
+
+------------------------------
+--------SMALL LOCKERS--------
+id-----status-----owner--
+1      0     1
+2      0     2
+3      0     3
+4      0     4
+5      0     5
+6      0     6
+7      0     7
+8      0     8
+9      0     9
+10      0     10
+------------------------------
+--------MEDIUM LOCKERS--------
+id-----status-----owner--
+11      0     11
+12      0     12
+13      0     13
+14      0     14
+15      0     15
+16      0     16
+17      0     17
+18      0     18
+19      0     19
+20      0     20
+------------------------------
+--------LARGE LOCKERS---------
+id-----status-----owner--
+21      0     21
+22      0     22
+23      0     23
+24      0     24
+25      0     25
+26      0     26
+27      0     27
+28      0     28
+29      0     29
+30      0     30
+------------------------------
+
+PRESS ANY KEY TO CONTINUE
+
+ ENTER YOUR PNR NO: 
+====SYSTEM MENU====
+1. REQUEST LOCK
+2. RELEASE LOCK
+ENTER YOUR CHOICE: 
+ENTER THE TYPE OF LOCK s(SMALL), m(MEDIUM) AND l(LARGE): 
+LOCK11IS ACQUIREDPLEASE REMEMBER YOUR LOCK-ID IS: 11
+
+WANT TO PRINT THE SYSTEM IMAGE?? PRESS 1 FOR YES OR ANY OTHER KEY TO CONTINUE: 
+------------------------------
+--------SMALL LOCKERS--------
+id-----status-----owner--
+1      0     1
+2      0     2
+3      0     3
+4      0     4
+5      0     5
+6      0     6
+7      0     7
+8      0     8
+9      0     9
+10      0     10
+------------------------------
+--------MEDIUM LOCKERS--------
+id-----status-----owner--
+11      1     110
+12      0     12
+13      0     13
+14      0     14
+15      0     15
+16      0     16
+17      0     17
+18      0     18
+19      0     19
+20      0     20
+------------------------------
+--------LARGE LOCKERS---------
+id-----status-----owner--
+21      0     21
+22      0     22
+23      0     23
+24      0     24
+25      0     25
+26      0     26
+27      0     27
+28      0     28
+29      0     29
+30      0     30
+------------------------------
+
+PRESS ANY KEY TO CONTINUE
+
+ ENTER YOUR PNR NO: 
+====SYSTEM MENU====
+1. REQUEST LOCK
+2. RELEASE LOCK
+ENTER YOUR CHOICE: 
+ENTER THE TYPE OF LOCK s(SMALL), m(MEDIUM) AND l(LARGE): 
+LOCK12IS ACQUIREDPLEASE REMEMBER YOUR LOCK-ID IS: 12
+
+WANT TO PRINT THE SYSTEM IMAGE?? PRESS 1 FOR YES OR ANY OTHER KEY TO CONTINUE: 
+------------------------------
+--------SMALL LOCKERS--------
+id-----status-----owner--
+1      0     1
+2      0     2
+3      0     3
+4      0     4
+5      0     5
+6      0     6
+7      0     7
+8      0     8
+9      0     9
+10      0     10
+------------------------------
+--------MEDIUM LOCKERS--------
+id-----status-----owner--
+11      1     110
+12      1     111
+13      0     13
+14      0     14
+15      0     15
+16      0     16
+17      0     17
+18      0     18
+19      0     19
+20      0     20
+------------------------------
+--------LARGE LOCKERS---------
+id-----status-----owner--
+21      0     21
+22      0     22
+23      0     23
+24      0     24
+25      0     25
+26      0     26
+27      0     27
+28      0     28
+29      0     29
+30      0     30
+------------------------------
+
+PRESS ANY KEY TO CONTINUE
+
+ ENTER YOUR PNR NO: 
+====SYSTEM MENU====
+1. REQUEST LOCK
+2. RELEASE LOCK
+ENTER YOUR CHOICE: 
+ENTER THE TYPE OF LOCK s(SMALL), m(MEDIUM) AND l(LARGE): 
+LOCK13IS ACQUIREDPLEASE REMEMBER YOUR LOCK-ID IS: 13
+
+WANT TO PRINT THE SYSTEM IMAGE?? PRESS 1 FOR YES OR ANY OTHER KEY TO CONTINUE: 
+------------------------------
+--------SMALL LOCKERS--------
+id-----status-----owner--
+1      0     1
+2      0     2
+3      0     3
+4      0     4
+5      0     5
+6      0     6
+7      0     7
+8      0     8
+9      0     9
+10      0     10
+------------------------------
+--------MEDIUM LOCKERS--------
+id-----status-----owner--
+11      1     110
+12      1     111
+13      1     112
+14      0     14
+15      0     15
+16      0     16
+17      0     17
+18      0     18
+19      0     19
+20      0     20
+------------------------------
+--------LARGE LOCKERS---------
+id-----status-----owner--
+21      0     21
+22      0     22
+23      0     23
+24      0     24
+25      0     25
+26      0     26
+27      0     27
+28      0     28
+29      0     29
+30      0     30
+------------------------------
+
+PRESS ANY KEY TO CONTINUE
+
+ ENTER YOUR PNR NO: 
+====SYSTEM MENU====
+1. REQUEST LOCK
+2. RELEASE LOCK
+ENTER YOUR CHOICE: 
+ENTER THE TYPE OF LOCK s(SMALL), m(MEDIUM) AND l(LARGE): 
+LOCK14IS ACQUIREDPLEASE REMEMBER YOUR LOCK-ID IS: 14
+
+WANT TO PRINT THE SYSTEM IMAGE?? PRESS 1 FOR YES OR ANY OTHER KEY TO CONTINUE: 
+------------------------------
+--------SMALL LOCKERS--------
+id-----status-----owner--
+1      0     1
+2      0     2
+3      0     3
+4      0     4
+5      0     5
+6      0     6
+7      0     7
+8      0     8
+9      0     9
+10      0     10
+------------------------------
+--------MEDIUM LOCKERS--------
+id-----status-----owner--
+11      1     110
+12      1     111
+13      1     112
+14      1     113
+15      0     15
+16      0     16
+17      0     17
+18      0     18
+19      0     19
+20      0     20
+------------------------------
+--------LARGE LOCKERS---------
+id-----status-----owner--
+21      0     21
+22      0     22
+23      0     23
+24      0     24
+25      0     25
+26      0     26
+27      0     27
+28      0     28
+29      0     29
+30      0     30
+------------------------------
+
+PRESS ANY KEY TO CONTINUE
+
+ ENTER YOUR PNR NO: 
+====SYSTEM MENU====
+1. REQUEST LOCK
+2. RELEASE LOCK
+ENTER YOUR CHOICE: 
+ENTER THE TYPE OF LOCK s(SMALL), m(MEDIUM) AND l(LARGE): 
+LOCK15IS ACQUIREDPLEASE REMEMBER YOUR LOCK-ID IS: 15
+
+WANT TO PRINT THE SYSTEM IMAGE?? PRESS 1 FOR YES OR ANY OTHER KEY TO CONTINUE: 
+------------------------------
+--------SMALL LOCKERS--------
+id-----status-----owner--
+1      0     1
+2      0     2
+3      0     3
+4      0     4
+5      0     5
+6      0     6
+7      0     7
+8      0     8
+9      0     9
+10      0     10
+------------------------------
+--------MEDIUM LOCKERS--------
+id-----status-----owner--
+11      1     110
+12      1     111
+13      1     112
+14      1     113
+15      1     114
+16      0     16
+17      0     17
+18      0     18
+19      0     19
+20      0     20
+------------------------------
+--------LARGE LOCKERS---------
+id-----status-----owner--
+21      0     21
+22      0     22
+23      0     23
+24      0     24
+25      0     25
+26      0     26
+27      0     27
+28      0     28
+29      0     29
+30      0     30
+------------------------------
+
+PRESS ANY KEY TO CONTINUE
+
+ ENTER YOUR PNR NO: 
+====SYSTEM MENU====
+1. REQUEST LOCK
+2. RELEASE LOCK
+ENTER YOUR CHOICE: 
+ENTER THE TYPE OF LOCK s(SMALL), m(MEDIUM) AND l(LARGE): 
+LOCK16IS ACQUIREDPLEASE REMEMBER YOUR LOCK-ID IS: 16
+
+WANT TO PRINT THE SYSTEM IMAGE?? PRESS 1 FOR YES OR ANY OTHER KEY TO CONTINUE: 
+------------------------------
+--------SMALL LOCKERS--------
+id-----status-----owner--
+1      0     1
+2      0     2
+3      0     3
+4      0     4
+5      0     5
+6      0     6
+7      0     7
+8      0     8
+9      0     9
+10      0     10
+------------------------------
+--------MEDIUM LOCKERS--------
+id-----status-----owner--
+11      1     110
+12      1     111
+13      1     112
+14      1     113
+15      1     114
+16      1     115
+17      0     17
+18      0     18
+19      0     19
+20      0     20
+------------------------------
+--------LARGE LOCKERS---------
+id-----status-----owner--
+21      0     21
+22      0     22
+23      0     23
+24      0     24
+25      0     25
+26      0     26
+27      0     27
+28      0     28
+29      0     29
+30      0     30
+------------------------------
+
+PRESS ANY KEY TO CONTINUE
+
+ ENTER YOUR PNR NO: 
+====SYSTEM MENU====
+1. REQUEST LOCK
+2. RELEASE LOCK
+ENTER YOUR CHOICE: 
+ENTER THE TYPE OF LOCK s(SMALL), m(MEDIUM) AND l(LARGE): 
+LOCK17IS ACQUIREDPLEASE REMEMBER YOUR LOCK-ID IS: 17
+
+WANT TO PRINT THE SYSTEM IMAGE?? PRESS 1 FOR YES OR ANY OTHER KEY TO CONTINUE: 
+------------------------------
+--------SMALL LOCKERS--------
+id-----status-----owner--
+1      0     1
+2      0     2
+3      0     3
+4      0     4
+5      0     5
+6      0     6
+7      0     7
+8      0     8
+9      0     9
+10      0     10
+------------------------------
+--------MEDIUM LOCKERS--------
+id-----status-----owner--
+11      1     110
+12      1     111
+13      1     112
+14      1     113
+15      1     114
+16      1     115
+17      1     116
+18      0     18
+19      0     19
+20      0     20
+------------------------------
+--------LARGE LOCKERS---------
+id-----status-----owner--
+21      0     21
+22      0     22
+23      0     23
+24      0     24
+25      0     25
+26      0     26
+27      0     27
+28      0     28
+29      0     29
+30      0     30
+------------------------------
+
+PRESS ANY KEY TO CONTINUE
+
+ ENTER YOUR PNR NO: 
+====SYSTEM MENU====
+1. REQUEST LOCK
+2. RELEASE LOCK
+ENTER YOUR CHOICE: 
+ENTER THE TYPE OF LOCK s(SMALL), m(MEDIUM) AND l(LARGE): 
+LOCK18IS ACQUIREDPLEASE REMEMBER YOUR LOCK-ID IS: 18
+
+WANT TO PRINT THE SYSTEM IMAGE?? PRESS 1 FOR YES OR ANY OTHER KEY TO CONTINUE: 
+------------------------------
+--------SMALL LOCKERS--------
+id-----status-----owner--
+1      0     1
+2      0     2
+3      0     3
+4      0     4
+5      0     5
+6      0     6
+7      0     7
+8      0     8
+9      0     9
+10      0     10
+------------------------------
+--------MEDIUM LOCKERS--------
+id-----status-----owner--
+11      1     110
+12      1     111
+13      1     112
+14      1     113
+15      1     114
+16      1     115
+17      1     116
+18      1     117
+19      0     19
+20      0     20
+------------------------------
+--------LARGE LOCKERS---------
+id-----status-----owner--
+21      0     21
+22      0     22
+23      0     23
+24      0     24
+25      0     25
+26      0     26
+27      0     27
+28      0     28
+29      0     29
+30      0     30
+------------------------------
+
+PRESS ANY KEY TO CONTINUE
+
+ ENTER YOUR PNR NO: 
+====SYSTEM MENU====
+1. REQUEST LOCK
+2. RELEASE LOCK
+ENTER YOUR CHOICE: 
+ENTER THE TYPE OF LOCK s(SMALL), m(MEDIUM) AND l(LARGE): 
+LOCK19IS ACQUIREDPLEASE REMEMBER YOUR LOCK-ID IS: 19
+
+WANT TO PRINT THE SYSTEM IMAGE?? PRESS 1 FOR YES OR ANY OTHER KEY TO CONTINUE: 
+------------------------------
+--------SMALL LOCKERS--------
+id-----status-----owner--
+1      0     1
+2      0     2
+3      0     3
+4      0     4
+5      0     5
+6      0     6
+7      0     7
+8      0     8
+9      0     9
+10      0     10
+------------------------------
+--------MEDIUM LOCKERS--------
+id-----status-----owner--
+11      1     110
+12      1     111
+13      1     112
+14      1     113
+15      1     114
+16      1     115
+17      1     116
+18      1     117
+19      1     118
+20      0     20
+------------------------------
+--------LARGE LOCKERS---------
+id-----status-----owner--
+21      0     21
+22      0     22
+23      0     23
+24      0     24
+25      0     25
+26      0     26
+27      0     27
+28      0     28
+29      0     29
+30      0     30
+------------------------------
+
+PRESS ANY KEY TO CONTINUE
+
+ ENTER YOUR PNR NO: 
+====SYSTEM MENU====
+1. REQUEST LOCK
+2. RELEASE LOCK
+ENTER YOUR CHOICE: 
+ENTER THE TYPE OF LOCK s(SMALL), m(MEDIUM) AND l(LARGE): 
+LOCK20IS ACQUIREDPLEASE REMEMBER YOUR LOCK-ID IS: 20
+
+WANT TO PRINT THE SYSTEM IMAGE?? PRESS 1 FOR YES OR ANY OTHER KEY TO CONTINUE: 
+------------------------------
+--------SMALL LOCKERS--------
+id-----status-----owner--
+1      0     1
+2      0     2
+3      0     3
+4      0     4
+5      0     5
+6      0     6
+7      0     7
+8      0     8
+9      0     9
+10      0     10
+------------------------------
+--------MEDIUM LOCKERS--------
+id-----status-----owner--
+11      1     110
+12      1     111
+13      1     112
+14      1     113
+15      1     114
+16      1     115
+17      1     116
+18      1     117
+19      1     118
+20      1     119
+------------------------------
+--------LARGE LOCKERS---------
+id-----status-----owner--
+21      0     21
+22      0     22
+23      0     23
+24      0     24
+25      0     25
+26      0     26
+27      0     27
+28      0     28
+29      0     29
+30      0     30
+------------------------------
+
+PRESS ANY KEY TO CONTINUE
+
+ ENTER YOUR PNR NO: 
+====SYSTEM MENU====
+1. REQUEST LOCK
+2. RELEASE LOCK
+ENTER YOUR CHOICE: 
+ENTER THE TYPE OF LOCK s(SMALL), m(MEDIUM) AND l(LARGE): SORRY NO MEDIUM LOCK AVAILABLE
+ ENTER YOUR PNR NO: 
+====SYSTEM MENU====
+1. REQUEST LOCK
+2. RELEASE LOCK
+ENTER YOUR CHOICE: 
+---NO SUCH CHOICE EXISTS--SYSTEM EXITING---
+===============================================

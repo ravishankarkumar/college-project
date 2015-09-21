@@ -1,0 +1,81 @@
+======  MENU  =====
+
+1. Create Order
+2. Create Bill
+3. Edit Order
+4. Edit Availability
+0. Exit
+
+Enter your choice
+please choose:
+	1. Italian
+	2. South Indian
+	0. Finish
+
+
+Please select item.
+	1. Uttapam   40
+	2. Masala Dosa   40
+	3. Idli   25
+	0. BACK
+wrong choice. Please choose again.
+please choose:
+	1. Italian
+	2. South Indian
+	0. Finish
+
+
+Please select item.
+	1. Uttapam   40
+	2. Masala Dosa   40
+	3. Idli   25
+	0. BACK
+quantity:	
+
+0. Go Back to Finish or Add More..
+please choose:
+	1. Italian
+	2. South Indian
+	0. Finish
+
+
+Please select item.
+	1. Uttapam   40
+	2. Masala Dosa   40
+	3. Idli   25
+	0. BACK
+quantity:	
+
+0. Go Back to Finish or Add More..
+wrong choice. Please choose again.
+please choose:
+	1. Italian
+	2. South Indian
+	0. Finish
+
+======  MENU  =====
+
+1. Create Order
+2. Create Bill
+3. Edit Order
+4. Edit Availability
+0. Exit
+
+Enter your choice
+
+--------------------------------------
+Uttapam	40	2
+Masala Dosa	40	2
+
+--------------------------------------
+Total bill: 160
+
+======  MENU  =====
+
+1. Create Order
+2. Create Bill
+3. Edit Order
+4. Edit Availability
+0. Exit
+
+Enter your choice

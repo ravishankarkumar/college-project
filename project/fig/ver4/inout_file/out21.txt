@@ -1,0 +1,10 @@
+This version is for polygon with 3 or 4 edges
+
+Enter no of edge in polygon
+1. To enter edges of polygon
+2. To enter Coordinates of polygon
+
+Enter the coordinates in clockwise or anti-clockwise fashion.
+first enter x then y coordinate respectively
+
+Given figure is trapezium

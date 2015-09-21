@@ -1,0 +1,70 @@
+======  MENU  =====
+
+1. Create Order
+2. Create Bill
+3. Edit Order
+4. Edit Availability
+0. Exit
+
+Enter your choice
+Please create order first
+please choose:
+	1. Italian
+	2. South Indian
+	0. Finish
+
+
+Please select item.
+	1. Pizza cheese burst-small   250
+	2. Pizza cheese burst-Medium   450
+	3. Pizza cheese burst-Large   800
+	0. BACK
+quantity:	
+
+0. Go Back to Finish or Add More..
+please choose:
+	1. Italian
+	2. South Indian
+	0. Finish
+
+======  MENU  =====
+
+1. Create Order
+2. Create Bill
+3. Edit Order
+4. Edit Availability
+0. Exit
+
+Enter your choice
+
+
+1. Pizza cheese burst-Large	800	2
+
+
+ Enter sno. of order
+1. Remove
+2. Edit
+======  MENU  =====
+
+1. Create Order
+2. Create Bill
+3. Edit Order
+4. Edit Availability
+0. Exit
+
+Enter your choice
+
+--------------------------------------
+
+--------------------------------------
+Total bill: 0
+
+======  MENU  =====
+
+1. Create Order
+2. Create Bill
+3. Edit Order
+4. Edit Availability
+0. Exit
+
+Enter your choice

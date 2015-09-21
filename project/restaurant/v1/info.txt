@@ -1,0 +1,9 @@
+a.out file is for linux/unix base OS users.
+other Application file is for Windos users. It can be run using any c++ compiler.
+
+inout_file directory contains input files expected output files(manually created) and output files.
+
+
+Version Info:
+This version is designed for restaurant which have “one type of Food and only one Item “.
+Here you can create order and generate bill against the order.
